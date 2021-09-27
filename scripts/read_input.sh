@@ -11,8 +11,6 @@ read -N 4 -s -p "What access code would you like to use? (must be 4 digits): " c
 echo ""
 echo "$firstname,$lastname,$extension,$code" > extensions.csv
 echo ""
-echo "*******************************************************"
 echo "Hello, ${firstname^}"
 echo "Your information has been saved to extensions.csv file."
-echo "*******************************************************"
 echo ""
