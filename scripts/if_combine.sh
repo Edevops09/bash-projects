@@ -1,6 +1,9 @@
 #!/bin/bash
 
 # Description: Example of a simple if statement
+# Usage: 
+# Use && for 'and' operator
+# Use || for 'or' operator
 
 a=$(cat file1.txt)
 b=$(cat file2.txt)
