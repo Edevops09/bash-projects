@@ -1,0 +1,7 @@
+HTTP/1.1 307 Temporary Redirect
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.amazon.com/
+Date: Thu, 30 Sep 2021 15:28:04 GMT
+Connection: keep-alive
+
