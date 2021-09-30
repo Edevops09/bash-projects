@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
 
 # -p = Displays a prompt for a user to enter  information
 # -t = timeout option (-t 5 means timeout after 5 seconds)
@@ -17,6 +16,7 @@ select phone in headset handheld; do
 	break
 done
 echo ""
+
 PS3="Which department do you work in?: "
 select dept in finance sales "customer service" engineering; do
 	echo "You have selected department: $dept"
