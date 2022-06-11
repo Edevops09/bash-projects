@@ -10,8 +10,8 @@ clear
 
 #welcome screen
 echo "🔥🔥🔥 ${green} R U N   C I S   D O C K E R   B E N C H M A R K ${reset} 🔥🔥🔥
-Author: Omar Ωr Santos
-Twitter: @santosomar
+Author: 
+Twitter: 
 Version: 0.2
 ${red}This script will automatically install or upgrade InSpec and will run the latest CIS Docker Benchmark from github/dev-sec/cis-docker-benchmark
 "
